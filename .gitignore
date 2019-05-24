@@ -8,6 +8,11 @@
 *.out
 *.toc
 
+## I added these on 2019-05-24
+*.fdb_latexmk
+*.synctex.gz
+*.xdv
+
 ## Intermediate documents:
 *.dvi
 *-converted-to.*
@@ -21,4 +26,3 @@
 ### Mac OS X ###
 ## Mac OS X metadata files:
 *.DS_Store
-
